@@ -1,0 +1,37 @@
+.acabado {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.nuevo {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.acabado h1,
+.nuevo h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.acabado h2,
+.nuevo h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.acabado button,
+.nuevo button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.acabado button:hover,
+.nuevo button:hover {
+    background-color: #0056b3;
+}
